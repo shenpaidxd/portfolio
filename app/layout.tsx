@@ -11,7 +11,7 @@ const syne = Syne({ subsets: ["latin"], variable: '--font-syne' });
 const outfit = Outfit({ subsets: ["latin"], variable: '--font-outfit' });
 
 export const metadata: Metadata = {
-  title: 'Nasirul - Developer Portfolio',
+  title: 'Senpai DxD - Developer Portfolio',
   description: 'Full-stack developer specializing in Telegram bots, mini apps, and crypto projects',
   generator: 'v0.app',
   icons: {
