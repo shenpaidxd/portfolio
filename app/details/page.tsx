@@ -11,9 +11,9 @@ export default function Details() {
     dob: '01/02/2007',
     country: 'India',
     state: 'Assam',
-    aliases: ['Arijitiyan', 'I AM CC', 'Captain Cool'],
-    email: 'alinasirul438@gmail.com',
-    telegram: '@arijitiyan'
+    aliases: ['@Senpai_DxD', 'Senpai DxD', 'Son Goku'],
+    email: 'shenpai.dxd@googlemail.com',
+    telegram: '@Senpai_DxD'
   }
 
   return (
@@ -124,7 +124,7 @@ export default function Details() {
                 <div>
                   <p className="text-sm text-foreground/70">Telegram</p>
                   <a
-                    href="https://t.me/arijitiyan"
+                    href="https://t.me/senpai_dxd"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-lg text-primary hover:underline"
