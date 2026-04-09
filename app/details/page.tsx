@@ -7,8 +7,8 @@ import { ArrowLeft, MapPin, Mail, Phone, Cake, Send } from 'lucide-react'
 
 export default function Details() {
   const details = {
-    realName: 'Nasirul',
-    dob: '01/02/2007',
+    realName: 'Akash',
+    dob: '01/02/20xx',
     country: 'India',
     state: 'Assam',
     aliases: ['@Senpai_DxD', 'Senpai DxD', 'Son Goku'],
