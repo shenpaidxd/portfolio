@@ -56,7 +56,7 @@ const projectsData = [
       { label: "Cryptography", value: "otpauth, bcryptjs, crypto" },
       { label: "Deployment", value: "Vercel" }
     ],
-    demoLink: "https://t.me/What_OTP_bot"
+    demoLink: "https://t.me/amaterasu_dxd_bot"
   },
   {
     id: "capitora",
@@ -104,7 +104,7 @@ const projectsData = [
       { label: "Payments", value: "Oxapay Gateway" },
       { label: "Design", value: "Modern & Responsive" }
     ],
-    demoLink: "https://capitora.net"
+    demoLink: "https://t.me"
   },
   {
     id: "prizenova",
@@ -152,7 +152,7 @@ const projectsData = [
       { label: "Payments", value: "TON Blockchain, Manual" },
       { label: "Features", value: "Ads, Games, Tasks, Admin Panel" }
     ],
-    demoLink: "https://t.me/prizenovabot"
+    demoLink: "https://t.me/senpai_dxd_bot"
   },
   {
     id: "smmnova",
@@ -200,7 +200,7 @@ const projectsData = [
       { label: "Payments", value: "Oxapay Gateway" },
       { label: "Platform", value: "Telegram Mini App" }
     ],
-    demoLink: "https://t.me/SMMNovaBot"
+    demoLink: "https://t.me/Senpai_dxd_Bot"
   }
 ]
 
