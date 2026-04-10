@@ -71,13 +71,13 @@ export default function MobileSidebar({ isOpen, onClose, navItems }: MobileSideb
                 {/* Sidebar Footer */}
                 <div className="p-6 border-t border-white/5 bg-background/50 backdrop-blur-xl">
                     <div className="flex justify-center gap-6">
-                        <a href="https://github.com/nasirul786" target="_blank" rel="noopener noreferrer" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
+                        <a href="https://github.com/shenpaidxd" target="_blank" rel="noopener noreferrer" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Github size={20} />
                         </a>
-                        <a href="https://t.me/arijitiyan" target="_blank" rel="noopener noreferrer" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
+                        <a href="https://t.me/senpai_dxd" target="_blank" rel="noopener noreferrer" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Send size={20} />
                         </a>
-                        <a href="mailto:alinasirul438@gmail.com" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
+                        <a href="mailto:shenpai.dxd@googlemail.com" className="p-2 text-foreground/50 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Mail size={20} />
                         </a>
                     </div>
