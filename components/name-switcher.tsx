@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 
-const names = ['Arijitiyan', 'I AM CC', 'Captain Cool', 'Nasirul']
+const names = ['Senpai DxD', 'Son Goku', 'Amaterasu DxD', 'Akash']
 
 export default function NameSwitcher() {
   const [currentIndex, setCurrentIndex] = useState(0)
