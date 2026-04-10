@@ -9,13 +9,13 @@ export default function Footer() {
                 <div className="flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="text-foreground/60 text-sm">© 2026 Senpai DxD. All rights reserved.</p>
                     <div className="flex gap-6">
-                        <a href="https://github.com/shinpaidxd" target="_blank" rel="noopener noreferrer" className="text-foreground/60 hover:text-primary transition-colors" suppressHydrationWarning>
+                        <a href="https://github.com/shenpaidxd" target="_blank" rel="noopener noreferrer" className="text-foreground/60 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Github size={20} />
                         </a>
                         <a href="https://t.me/senpai_dxd" target="_blank" rel="noopener noreferrer" className="text-foreground/60 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Send size={20} />
                         </a>
-                        <a href="mailto:shinpai.dxd@googlemail.com" className="text-foreground/60 hover:text-primary transition-colors" suppressHydrationWarning>
+                        <a href="mailto:shenpai.dxd@googlemail.com" className="text-foreground/60 hover:text-primary transition-colors" suppressHydrationWarning>
                             <Mail size={20} />
                         </a>
                     </div>
