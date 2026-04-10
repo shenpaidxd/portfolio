@@ -82,7 +82,7 @@ export default function MobileSidebar({ isOpen, onClose, navItems }: MobileSideb
                         </a>
                     </div>
                     <p className="text-center text-xs text-foreground/30 mt-4">
-                        © 2026 Nasirul. All rights reserved.
+                        © 2026 Senpai DxD. All rights reserved.
                     </p>
                 </div>
             </div>
